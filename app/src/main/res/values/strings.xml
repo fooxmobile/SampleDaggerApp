@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SampleDaggerApp</string>
+    <string name="TAG_USER_ID">USER_ID</string>
+</resources>
